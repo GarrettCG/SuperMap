@@ -1,0 +1,15 @@
+name: SuperMap
+main: plugin.SuperMap
+version: 1
+commands:
+   test:
+      description: This is for testing purposes.
+      usage: /<test>
+      
+   cot:
+      description: This is for debugging.
+      usage: /<cout>
+      
+   hand:
+      description: This is for debugging.
+      usage: /<hand>      
